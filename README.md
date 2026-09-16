@@ -2,7 +2,7 @@
 
 Простой проект игры "Крестики-нолики" на React + TypeScript + Vite.
 
-##Ссылка https://tic-tac-toe-q5kc.vercel.app/
+## Ссылка https://tic-tac-toe-q5kc.vercel.app/
 
 ## Описание
 
